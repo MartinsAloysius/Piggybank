@@ -113,7 +113,6 @@ Need testnet ETH? Get it from these faucets:
 
 ## Future Improvements
 
-[What would you add if you had more time?]
 - [ ] Add frontend with React
 - [ ] Support ERC20 tokens
 - [ ] Add milestone rewards
