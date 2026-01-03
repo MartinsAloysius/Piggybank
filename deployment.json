@@ -1,0 +1,12 @@
+{
+  "sepolia": {
+    "Piggybank": {
+      "address": "0x9806e303cd6b53ebff916b66443b4385badb479f",
+      "network": "Sepolia Testnet",
+      "chainId": 11155111,
+      "deployer": "0x4e2d7b8ad80917a6e78d4a7d6e1819929ea3a568",
+      "deployedAt": "2026-01-03T02:24",
+      "etherscan": "https://sepolia.etherscan.io/address/0x9806e303cd6b53ebff916b66443b4385badb479f"
+    }
+  }
+}
